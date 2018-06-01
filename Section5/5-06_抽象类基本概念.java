@@ -18,6 +18,8 @@
 6。抽象类不能被声明为final。
 7。抽象类可以有构造方法。
 
+抽象类与接口的区别：
+https://www.zhihu.com/question/20149818
 * */
 
 public class Main {
